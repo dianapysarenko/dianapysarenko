@@ -1,25 +1,25 @@
-## Hi there 👋 Diana Pysarenko 👩‍💻
+## Hi there 👩‍💻 Diana Pysarenko
 
-Étudiante en BTS CIEL – Cybersécurité & Réseaux 🔐
+Étudiante en BTS CIEL – Cybersécurité & Réseaux
 
 ## 🛠️ Compétences
 
-- 🔐 Sécurité des systèmes et des réseaux
-- 🌐 Architecture réseau (TCP/UDP, IPv6, Packet Tracer, Wireshark)
-- 💻 Développement logiciel (C#, Java, PHP, JavaScript)
-- 🌍 Développement web (HTML/CSS, JavaScript, bases en React)
-- 📱 Développement Android (bases en Kotlin)
-- 🗄️ Bases de données (MySQL, HeidiSQL, PhpMyAdmin)
-- 🖥️ Interfaces graphiques (WPF, Windows Forms, JavaFX)
-- 🤖 Automatisation de processus (RPA – Make, n8n)
+- Sécurité des systèmes et des réseaux
+- Architecture réseau (TCP/UDP, IPv6, Packet Tracer, Wireshark)
+- Développement logiciel (C#, Java, PHP, JavaScript)
+- Développement web (HTML/CSS, JavaScript, bases en React)
+- Développement Android (bases en Kotlin)
+- Bases de données (MySQL, HeidiSQL, PhpMyAdmin)
+- Interfaces graphiques (WPF, Windows Forms, JavaFX)
+- Automatisation de processus (RPA – Make, n8n)
 
 ## 💼 Expérience en stage – Mairie de Privas (6 semaines)
 
-- 🖥️ Installation, configuration et maintenance de postes (Windows, matériel, BIOS)
-- 👥 Administration Active Directory (GPO, gestion des utilisateurs, accès distants)
-- 📦 Déploiement de logiciels via WAPT
-- 📡 Configuration et diagnostic réseau (Wi-Fi, VLAN, routeurs)
-- 💾 Gestion de NAS et des accès utilisateurs
+- Installation, configuration et maintenance de postes (Windows, matériel, BIOS)
+- Administration Active Directory (GPO, gestion des utilisateurs, accès distants)
+- Déploiement de logiciels via WAPT
+- Configuration et diagnostic réseau (Wi-Fi, VLAN, routeurs)
+- Gestion de NAS et des accès utilisateurs
 
 ## 🚀 Projet BTS
 
