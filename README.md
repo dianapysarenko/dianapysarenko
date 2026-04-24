@@ -1,12 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Diana Pysarenko 👩‍💻
 
-<!--
-**dianapysarenko/dianapysarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Diana Pysarenko 👩‍💻
-
-Étudiante en BTS CIEL – Cybersécurité & Réseaux 🔐  
-En France 🇫🇷
+Étudiante en BTS CIEL – Cybersécurité & Réseaux 🔐
 
 ## 🛠️ Compétences
 
@@ -44,4 +38,3 @@ Git · GitHub
 Linux (Ubuntu) · Windows Server · Machines virtuelles (VirtualBox / Hyper-V)  
 Cisco Packet Tracer · Wireshark  
 MySQL · PhpMyAdmin · HeidiSQL
--->
