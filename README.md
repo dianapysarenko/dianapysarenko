@@ -1,8 +1,6 @@
-## 👩‍💻 Diana Pysarenko
+## Étudiante en BTS CIEL – Cybersécurité & Réseaux
 
-Étudiante en BTS CIEL – Cybersécurité & Réseaux
-
-## 🛠️ Compétences
+## Compétences
 
 - Sécurité des systèmes et des réseaux
 - Architecture réseau (TCP/UDP, IPv6, Packet Tracer, Wireshark)
@@ -13,7 +11,7 @@
 - Interfaces graphiques (WPF, Windows Forms, JavaFX)
 - Automatisation de processus (RPA – Make, n8n)
 
-## 💼 Expérience en stage – Mairie de Privas (6 semaines)
+## Expérience en stage – Mairie de Privas (6 semaines)
 
 - Installation, configuration et maintenance de postes (Windows, matériel, BIOS)
 - Administration Active Directory (GPO, gestion des utilisateurs, accès distants)
@@ -21,17 +19,17 @@
 - Configuration et diagnostic réseau (Wi-Fi, VLAN, routeurs)
 - Gestion de NAS et des accès utilisateurs
 
-## 🚀 Projet BTS
+## Projet BTS
 
 **Gestion de bornes de collecte** – Système de suivi de bornes de recyclage.  
 Architecture : Capteur → Serveur → Base de données → WPF (MVVM).
 
-## 🎯 Objectif
+## Objectif
 
 Poursuivre mes études après le BTS afin d'approfondir mes compétences  
 en cybersécurité, systèmes et architecture logicielle.
 
-## ⚙️ Outils & environnements
+## Outils & environnements
 
 Visual Studio · IntelliJ IDEA · Android Studio · VS Code  
 Git · GitHub  
