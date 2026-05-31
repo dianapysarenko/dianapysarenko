@@ -1,4 +1,4 @@
-## Hi there 👩‍💻 Diana Pysarenko
+## 👩‍💻 Diana Pysarenko
 
 Étudiante en BTS CIEL – Cybersécurité & Réseaux
 
